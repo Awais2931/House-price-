@@ -1,0 +1,6 @@
+streamlit
+Numpy
+pandas
+joblib
+tensorflow
+matplotlib
